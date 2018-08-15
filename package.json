@@ -1,7 +1,7 @@
 {
   "name": "php-tutorial",
   "version": "0.0.1",
-  "description": "php 笔记",
+  "description": "",
   "main": "index.html",
   "directories": {
     "doc": "docs"
@@ -9,29 +9,17 @@
   "dependencies": {
     "docsify-cli": "^4.2.0"
   },
-  "devDependencies": {
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zhangxx1990/PHP.git"
-  },
-  "scripts": {
-    "start": "docsify serve ./ --port 5080"
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/zhangxx1990/PHP.git"
   },
   "keywords": [
-    "php",
     "PHP",
-    "tutorial",
-    "php tutorial",
-    "PHP tutoria"
+    "php",
+    "PHP-tutorial"
   ],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zhangxx1990/PHP.git"
-  },
   "homepage": "https://github.com/zhangxx1990/PHP.git"
 }
